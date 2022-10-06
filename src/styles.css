@@ -308,6 +308,10 @@ p {
 footer {
   background-color: #375686;
   padding: 40px 0;
+  max-height: 250px;
+}
+footer .container{
+  padding: 0;
 }
 footer p {
   margin: 0;
