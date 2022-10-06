@@ -1,4 +1,21 @@
-  .btn-primary{
+.model{
+  transform: scale(1.8); 
+  margin-bottom: -20%;
+}
+.image-model{
+  background-color: #4189a1;
+  padding: 30px 0;
+}
+@media (max-width: 767px) {
+  .model{
+    display: none;
+  } 
+  .image-model{
+    display: none;
+  }
+}
+
+.btn-primary{
 background-color: #4189A1 !important;
   }
   .btn-secondary{
