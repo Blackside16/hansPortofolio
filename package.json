@@ -1,0 +1,16 @@
+{
+    "name": "untitled",
+    "version": "1.0.0",
+    "description": "Scene exported with Spline",
+    "scripts": {
+        "start": "serve"
+    },
+    "devDependencies": {
+        "serve": "^13.0.2"
+    },
+    "dependencies": {
+        "@splinetool/runtime": "^0.9.116",
+        "connect": "^3.7.0",
+        "serve-static": "^1.15.0"
+    }
+}
